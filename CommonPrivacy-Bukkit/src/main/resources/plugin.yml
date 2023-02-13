@@ -1,0 +1,8 @@
+name: CommonPrivacy
+description: Handles privacy functionalities for plugins on this server.
+
+author: CubBossa
+
+version: ${version}
+main: de.cubbossa.commonprivacy.CommonPrivacy
+api-version: 1.14
