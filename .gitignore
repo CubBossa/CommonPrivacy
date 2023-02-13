@@ -1,3 +1,5 @@
 # Project exclude paths
 /CommonPrivacy-API/target/
 /CommonPrivacy-Bukkit/target/
+
+./.idea
